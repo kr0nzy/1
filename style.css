@@ -1,0 +1,76 @@
+body {
+	margin: 0;
+}
+
+form {
+	background: white;
+	max-width:300px;
+	margin:25px;
+}
+
+form label{
+	display: inline-block;
+	width: 80px;
+	line-height:50px;
+	
+	
+	
+}
+form input{
+	display: inline-block;
+	width: 150px;
+}
+
+.hederis {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-center;
+	margin: 10px 25px;
+	font-family:sans-serif;
+	
+}
+
+.hederis input {
+	height:30px;
+	width:125px;
+	
+}
+
+h1 {
+	margin: 0;
+}
+.tips {
+	width: 170px;
+}
+
+.hidden-inputs {
+	list-style: none;
+}
+
+.hidden-inputs li {
+	display: none;
+}
+
+.hidden-inputs li.active {
+	display: block;
+}
+.tips{
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-center;
+	margin: 10px 25px;
+	font-family:sans-serif;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
